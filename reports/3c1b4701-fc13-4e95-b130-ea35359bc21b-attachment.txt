@@ -1,1 +1,0 @@
-[33mWARNING [0m src.tests.test_login_hrm:test_login_hrm.py:45 Clicked on login button

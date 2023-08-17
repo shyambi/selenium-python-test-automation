@@ -1,0 +1,15 @@
+2023-08-17 15:30:50 [    INFO] ====== WebDriver manager ======
+2023-08-17 15:30:51 [    INFO] Get LATEST chromedriver version for google-chrome
+2023-08-17 15:30:51 [    INFO] Get LATEST chromedriver version for google-chrome
+2023-08-17 15:30:51 [    INFO] There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+2023-08-17 15:30:51 [    INFO] Get LATEST chromedriver version for google-chrome
+2023-08-17 15:30:51 [    INFO] WebDriver version 115.0.5790.170 selected
+2023-08-17 15:30:51 [    INFO] Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-17 15:30:51 [    INFO] About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+2023-08-17 15:30:51 [    INFO] Driver downloading response is 200
+2023-08-17 15:30:52 [    INFO] Get LATEST chromedriver version for google-chrome
+2023-08-17 15:30:52 [    INFO] Driver has been saved in cache [C:\Users\www.abcom.in\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+2023-08-17 15:31:01 [    INFO] Clicked on username textbox
+2023-08-17 15:31:01 [    INFO] Send keys username is done
+2023-08-17 15:31:01 [    INFO] Clicked on login button
+2023-08-17 15:31:11 [    INFO] Test Passed
